@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @sweetArizCider
-- 👀 I’m interested in ... code, music and videogames :)
-- 🌱 I’m currently learning ... web development, js, node and css 
-- 📫 How to reach me ... here's my ig: bearizah :)
+# - 👋 Hi, I’m @sweetArizCider
+- 👀 I’m interested in ... **WEB DEVELOPMENT**, **MUSIC** and **VIDEOGAMES** :)
+- 🌱 I’m currently learning ... js, node and css 
+- 📫 How to reach me ... here's my ig: **bearizah** :)
 - 😄 Pronouns: ... he
-- ⚡ Fun fact: ... i play bass pretty good but i'm not into music 
+
+![Vladimir _ League of Legends](https://github.com/user-attachments/assets/0f5425e5-dd1a-4dea-81c2-e4b7e20a6c32)
 
 <!---
 sweetArizCider/sweetArizCider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
