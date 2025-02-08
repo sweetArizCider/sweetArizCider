@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @sweetArizCider
 - 👀 I’m interested in ... **WEB DEVELOPMENT**, **MUSIC** and **VIDEOGAMES** :)
-- 🌱 I’m currently learning ... js, node and css 
+- 🌱 I’m currently learning ... js, ts, react and css 
 - 📫 How to reach me ... here's my ig: **bearizah** :)
 - 😄 Pronouns: ... he
 
