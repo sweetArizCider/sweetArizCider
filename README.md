@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi! here applecider!<br>Passionate Web Developer with freelance experience and a lot of proyects, specializing in designing, developing, and implementing web applications using:<br><br>JavaScript, Node.js, Express.js, MongoDB, MySQL, PostgresSQL ,TypeScript, React, Vite, Git, GitHub, Vercel and AWS.<br><br>Practicing every day, earned a Web Responsive Design Certification and a Back end development and APIs from freeCodeCamp, and going for more!
+## Hi! here applecider!<br>Passionate Web Developer with freelance experience and a lot of proyects, specializing in designing, developing, and implementing web applications<br><br><br><br>Practicing every day, earned a Web Responsive Design Certification and a Back end development and APIs from freeCodeCamp, and going for more!
 
 
 ## 🌐 Socials:
